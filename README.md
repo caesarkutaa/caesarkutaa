@@ -15,7 +15,7 @@
 
 - 😊 I’m looking for help with **open source projects, hackathons, internships, and entry-level opportunities.**
 
-- 💼 Job interests: Backend Engineer
+- 💼 Job interests: **Backend Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
