@@ -5,15 +5,17 @@
 
 - 🔭 I’m currently working on **Music/Blog API**
 
-- 🌱 I’m currently learning **Nestjs and docker**
+- 🌱 I’m currently learning **Cloud Engineering and docker**
 
-- 💬 Ask me about **Vuejs,Javascript and Nodejs**
+- 💬 Ask me about **Vuejs,Javascript,Typescript,Nodejs and Nestjs**
 
 - 📫 How to reach me **caesarlouis0@gmail.com**
 
 - ⚡ Fun fact **I love playing basketball**
 
 - 😊 I’m looking for help with **open source projects, hackathons, internships, and entry-level opportunities.**
+
+- 💼 Job interests: Backend Engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
