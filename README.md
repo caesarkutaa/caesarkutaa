@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love playing basketball**
 
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking for help with **open source projects, hackathons, internships, and entry-level opportunities.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
