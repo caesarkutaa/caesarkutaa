@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Caesar_kuta</h1>
-<h3 align="center">A passionate web developer from Nigeria</h3>
+<h3 align="center">A passionate Backend web developer from Nigeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caesarkutaa" alt="caesarkutaa" /></a> </p>
 
-- 🔭 I’m currently working on **Banking site**
+- 🔭 I’m currently working on **Music/Blog API**
 
 - 🌱 I’m currently learning **Nestjs and docker**
 
@@ -12,6 +12,8 @@
 - 📫 How to reach me **caesarlouis0@gmail.com**
 
 - ⚡ Fun fact **I love playing basketball**
+
+- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
