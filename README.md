@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caesarkutaa" alt="caesarkutaa" /></a> </p>
 
-- 🔭 I’m currently working on **Music/Blog API**
+- 🔭 I’m currently working on **something big!**
 
 - 🌱 I’m currently learning **Cloud Engineering and docker**
 
