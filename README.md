@@ -2,9 +2,6 @@
 
 **Full Stack Developer | Backend Specialist | Problem Solver | Cloud Engineering Enthusiast**
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caesarkutaa" alt="caesarkutaa" /></a>
-</p>
 
 ---
 
